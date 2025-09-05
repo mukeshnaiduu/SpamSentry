@@ -1,0 +1,5 @@
+com/spamsentry/ClassifierUtil.class
+com/spamsentry/TextPreprocessor.class
+com/spamsentry/Trainer.class
+com/spamsentry/App.class
+com/spamsentry/DataCleaner.class
