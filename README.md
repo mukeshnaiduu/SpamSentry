@@ -1,4 +1,3 @@
-SpamSentry - Minimal Weka MVP
 # SpamSentry
 
 SpamSentry is a minimal Java CLI for experimenting with email spam classification using Weka. It includes:
