@@ -83,5 +83,3 @@ These runs and the saved models (`models/*.model`) are available in the workspac
 
 I ran small batches of example texts with `classify`/`probs` to verify behavior. See the `examples.txt` used during testing in the workspace root.
 
----
-If you want, I can add an evaluation report (precision/recall at several thresholds) and a small script to run bulk classification on new CSVs.
